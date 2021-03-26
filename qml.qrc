@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/main.qml</file>
+        <file>qml/ObstacleCreator.js</file>
+        <file>qml/obstacle_course/items/ObstacleInnerItem.qml</file>
+        <file>qml/obstacle_course/items/ObstacleItem.qml</file>
+        <file>qml/obstacle_course/items/ObstacleMetaItem.qml</file>
+        <file>qml/obstacle_course/items/RobotItem.qml</file>
+        <file>qml/obstacle_course/ObstacleCourse.qml</file>
+        <file>qml/obstacle_course/ObstacleCourseMap.qml</file>
+        <file>qml/obstacle_course/ObstacleCourseMenu.qml</file>
+        <file>qml/ObstacleMenuBar.qml</file>
+        <file>qml/Style.qml</file>
+        <file>qml/dialogs/ObstacleFileDialog.qml</file>
+        <file>qml/dialogs/FileDialogOpener.js</file>
+        <file>qml/About.qml</file>
+    </qresource>
+</RCC>

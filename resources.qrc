@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resources/robot">
+        <file alias="robot">resources/robot/robot.png</file>
+    </qresource>
+    <qresource prefix="/resources/map_items">
+        <file alias="meta">resources/map_items/meta.png</file>
+    </qresource>
+    <qresource prefix="/resources/shaders/about">
+        <file alias="frag_shader">resources/shaders/about/AboutFrgmentShader.fsh</file>
+    </qresource>
+    <qresource prefix="/resources/images">
+        <file alias="ki">resources/images/ki.jpg</file>
+    </qresource>
+</RCC>
