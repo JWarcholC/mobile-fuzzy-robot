@@ -16,12 +16,12 @@ The simulation application was written in C++/QML based on Qt framework. So you 
 
 ## Example usage
 
-Open the <i>robot_controller.slx</i> in Simulink. Be aware that the <i>robot.fis</i> should be in the same directory (it cotains the fuzzy rules)! Then run the qt application. You should set the IP address (localhost if empty) and UDP port (by default, the port is <b>2137</b>). After clicked on connect, you should see the confirmation in logs (notice that the 7777 is a second application port and cannot be changed):
+Open the <i>robot_controller.slx</i> from <i>controller</i> directory in Simulink. Be aware that the <i>robot.fis</i> should be in the same directory (it cotains the fuzzy rules)! Then run the qt application. You should set the IP address (localhost if empty) and UDP port (by default, the port is <b>2137</b>). After clicked on connect, you should see the confirmation in logs (notice that the 7777 is a second application port and cannot be changed):
 
 ![](screenshots/screen1.png)
 
 
-Now insert the obstacles on th map area (or load from example : File > Open...). You can move the robot and meta, too. After the start button had clicked, the robot started its move:
+Now insert the obstacles on the map area (or load from example (<i>maps</i> directory) : File > Open...). You can move the robot and meta, too. After the start button had clicked, the robot started its move:
 
 ![](screenshots/screen2.png)
 
