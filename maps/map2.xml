@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <file>
+        <author>jakub</author>
+        <creationDate>2021-03-26 09:22:27</creationDate>
+    </file>
+    <mapItems>
+        <robot>
+            <topLeftX>19</topLeftX>
+            <topLeftY>44</topLeftY>
+        </robot>
+        <meta>
+            <topLeftX>832</topLeftX>
+            <topLeftY>206</topLeftY>
+        </meta>
+    </mapItems>
+    <obstacles>
+        <count>4</count>
+        <obstacle>
+            <topLeftX>443</topLeftX>
+            <topLeftY>1</topLeftY>
+            <rotation>0</rotation>
+        </obstacle>
+        <obstacle>
+            <topLeftX>501</topLeftX>
+            <topLeftY>51</topLeftY>
+            <rotation>90</rotation>
+        </obstacle>
+        <obstacle>
+            <topLeftX>27</topLeftX>
+            <topLeftY>129</topLeftY>
+            <rotation>90</rotation>
+        </obstacle>
+        <obstacle>
+            <topLeftX>337</topLeftX>
+            <topLeftY>182</topLeftY>
+            <rotation>90</rotation>
+        </obstacle>
+    </obstacles>
+</content>

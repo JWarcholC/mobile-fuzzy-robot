@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <file>
+        <author>jakub</author>
+        <creationDate>2021-03-26 09:21:28</creationDate>
+    </file>
+    <mapItems>
+        <robot>
+            <topLeftX>42</topLeftX>
+            <topLeftY>43</topLeftY>
+        </robot>
+        <meta>
+            <topLeftX>832</topLeftX>
+            <topLeftY>206</topLeftY>
+        </meta>
+    </mapItems>
+    <obstacles>
+        <count>1</count>
+        <obstacle>
+            <topLeftX>348</topLeftX>
+            <topLeftY>0</topLeftY>
+            <rotation>0</rotation>
+        </obstacle>
+    </obstacles>
+</content>
