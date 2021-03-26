@@ -2,7 +2,8 @@
 C++/QML simulation of robot movement, which is controlled by fuzzy controller (Simulink).
 
 ## Description
-This is a project of simulation a robot movement. The robot is controlled by a fuzzy controller (TSK) and it should go to the meta point. This project was executed in cooperation with [tornado561](https://github.com/tornado561) (aka Krzysztof Pikul). These two applications are bounded by the UDP connection.
+This is a project of simulation a robot movement. The robot is controlled by a fuzzy controller (TSK) and it should go to the meta point. These two applications are bounded by the UDP connection. 
+This project was executed in cooperation with [tornado561](https://github.com/tornado561) (aka Krzysztof Pikul).
 
 ## Requirements
 
